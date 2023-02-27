@@ -5,7 +5,7 @@
 my_tuple = tuple()
 my_other_tuple = ()
 
-my_tuple = (35, 1.77, "Rodrigo", "Ramirez", "IngRodro")
+my_tuple = (21, 1.74, "Rodrigo", "Ramirez", "IngRodro")
 my_other_tuple = (35, 60, 30)
 
 print(my_tuple)
